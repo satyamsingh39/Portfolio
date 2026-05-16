@@ -20,7 +20,7 @@ const About = () => {
             <div className="relative z-10 aspect-square max-w-[450px] mx-auto overflow-hidden rounded-[2.5rem] border border-white/10 glass-card p-3 group">
               <div className="w-full h-full rounded-[2rem] overflow-hidden bg-background-dark relative group">
                 <img 
-                  src="/src/assets/images/profile.jpg" 
+                  src="/profile.jpg" 
                   alt={personalInfo.name} 
                   className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                 />

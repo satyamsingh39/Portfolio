@@ -92,7 +92,7 @@ const Hero = () => {
                 <div className="w-full h-full rounded-2xl overflow-hidden bg-background-darker relative">
                    <div className="absolute inset-0 bg-gradient-to-t from-background-deep via-transparent to-transparent z-10"></div>
                    <img 
-                      src="/src/assets/images/profile.jpg" 
+                      src="/profile.jpg" 
                       alt={personalInfo.name} 
                       className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                    />

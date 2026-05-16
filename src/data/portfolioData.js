@@ -131,7 +131,7 @@ export const projects = [
     tech: ["Python", "LangChain", "FAISS", "Gemini", "Streamlit"],
     github: "#",
     demo: "#",
-    image: "/src/assets/images/project-pdf.png"
+    image: "/projects/multi-pdf.png"
   },
   {
     title: "ServiceMatch",
@@ -139,7 +139,7 @@ export const projects = [
     tech: ["React", "Node.js", "Express", "MongoDB", "Firebase"],
     github: "#",
     demo: "#",
-    image: "/src/assets/images/project-servicematch.png"
+    image: "/projects/service-match.png"
   },
   {
     title: "AirSenseAI",
@@ -147,7 +147,7 @@ export const projects = [
     tech: ["Python", "XGBoost", "Scikit-learn", "PCA"],
     github: "#",
     demo: "#",
-    image: "/src/assets/images/project-airsense.png"
+    image: "/projects/air-sense-ai.png"
   },
   {
     title: "Cheetah vs Hyena Classifier",
@@ -155,7 +155,7 @@ export const projects = [
     tech: ["TensorFlow", "CNN", "Python", "Augmentation"],
     github: "#",
     demo: "#",
-    image: "/src/assets/images/project-classifier.png"
+    image: "/projects/classifier.png"
   }
 ];
 
