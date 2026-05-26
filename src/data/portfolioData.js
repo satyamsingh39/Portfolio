@@ -19,7 +19,7 @@ export const personalInfo = {
     { name: "LeetCode", icon: SiLeetcode, url: "https://leetcode.com/u/satyamsinghsv39/" },
   ],
   stats: [
-    { label: "DSA Problems", value: "360+", icon: FaCode },
+    { label: "DSA Problems", value: "400+", icon: FaCode },
     { label: "SIH 2024", value: "Finalist", icon: FaAward },
     { label: "Major Projects", value: "4+", icon: FaLayerGroup },
     { label: "LeetCode Rating", value: "1400+", icon: SiLeetcode },
